@@ -182,7 +182,7 @@ class HomePage extends StatelessWidget {
                                               ? Colors.red
                                               : Colors.black,
                                       fontWeight:
-                                          index == 0
+                                          index == 1
                                               ? FontWeight.bold
                                               : FontWeight.normal,
                                     ),
